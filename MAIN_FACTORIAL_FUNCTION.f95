@@ -1,0 +1,10 @@
+      PROGRAM FACTORIAL
+      IMPLICIT NONE
+      INTEGER::N,RESULT
+      INTEGER,EXTERNAL ::CAL_FACT
+      PRINT *, "WRITE INTEGER"
+      READ*,N
+      RESULT = CAL_FACT(N)
+      PRINT*,"the factorial of the",N,"IS:"
+      PRINT*, RESULT
+      END PROGRAM
