@@ -1,11 +1,20 @@
-# DEBASIS SIR CLASS : Basic Python Concepts
+# DEBASIS SIR CLASS : Basic fortran Concepts
 ## Files
-- 
+- MAIN_FACTORIAL_FUNCTION.f95
+- MATPDT.f95
+- SORT_ARRAY.f
+- factorial_function.f95
+- matrix_multiplication.f95
+- program_largest_swap_write.f95
+- recursion.f95
+- sort_array_subroutine.f
+- sort_array.f
+# PINAKI SIR CLASS : Basic quantum mechanical problems 
 
-## Requirements
+# Requirements
 - gfortran
 
-## Run
+# Run
 - copy the programs.
 - paste it on text editor.
 - open the terminal of the folder where the filename.f file written in text editor is     saved.
