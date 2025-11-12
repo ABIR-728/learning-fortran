@@ -6,8 +6,6 @@
 - gfortran
 
 ## Run
-- $ gfortran filename.f -o filename
-- $ ./filename
 - copy the programs.
 - paste it on text editor.
 - open the terminal of the folder where the filename.f file written in text editor is     saved.
