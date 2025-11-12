@@ -10,6 +10,11 @@
 - sort_array_subroutine.f
 - sort_array.f
 # PINAKI SIR CLASS : Basic quantum mechanical problems 
+## Files
+- kinetic_energy_d.e.f95
+- simple_hermonic_oscilator.f95
+- particle_in_box.f95
+- psi0_trapizoidal.f95
 
 # Requirements
 - gfortran
