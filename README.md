@@ -15,6 +15,7 @@
 - orthogonality.f95
 - particle_in_box.f95
 - psi0_trapizoidal.f95
+- kinetic_energy_pib_d.e.f95
 - ............(continue)
 
 # Requirements
