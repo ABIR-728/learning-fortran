@@ -16,6 +16,7 @@
 - particle_in_box.f95
 - psi0_trapizoidal.f95
 - kinetic_energy_pib_d.e.f95
+- ODEk1k2.f90
 - ............(continue)
 
 # Requirements
