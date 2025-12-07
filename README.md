@@ -1,4 +1,4 @@
-# DEBASIS SIR CLASS : Basic fortran Concepts
+# DEBASIS SIR CLASS :
 ## Files
 - MAIN_FACTORIAL_FUNCTION.f95
 - MATPDT.f95
@@ -9,7 +9,7 @@
 - recursion.f95
 - sort_array_subroutine.f
 - sort_array.f
-# PINAKI SIR CLASS : Basic quantum mechanical problems 
+# PINAKI SIR CLASS :
 ## Files
 - kinetic_energy_d.e.f95
 - orthogonality.f95
@@ -18,6 +18,15 @@
 - kinetic_energy_pib_d.e.f95
 - ODEk1k2.f90
 - ODE.f90
+- ............(continue)
+# SWAPAN SIR CLASS :
+## Files
+- problem 1
+- problem 2
+- problem 3
+- problem 4
+- problem 5
+- problem 6
 - ............(continue)
 
 # Requirements
