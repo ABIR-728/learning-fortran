@@ -1,0 +1,33 @@
+PROGRAM ARMSTRONG_NUMBER
+
+  IMPLICIT NONE
+  INTEGER :: N, TEMP, DIGIT, SUM, COUNT, I
+
+  print *, "ENTER A NUMBER:"
+  read *, N
+
+  TEMP = N
+  COUNT = 0
+
+  ! Count digits
+  DO WHILE (TEMP > 0)
+    TEMP = TEMP / 10
+    COUNT = COUNT + 1
+  END DO
+
+  ! Compute Armstrong sum
+  TEMP = N
+  SUM = 0
+  DO WHILE (TEMP > 0)
+    DIGIT = MOD(TEMP, 10)
+    SUM = SUM + DIGIT**COUNT
+    TEMP = TEMP / 10
+  END DO
+
+  IF (SUM == N) THEN
+    PRINT *, N, "IS AN ARMSTRONG NUMBER."
+  ELSE
+    PRINT *, N, "IS NOT AN ARMSTRONG NUMBER."
+  END IF
+
+END PROGRAM 
