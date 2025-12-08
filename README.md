@@ -21,12 +21,14 @@
 - ............(continue)
 # SWAPAN SIR CLASS :
 ## Files
-- problem 1
-- problem 2
-- problem 3
-- problem 4
-- problem 5
-- problem 6
+- problem1.f90
+- problem2.f90
+- problem3.f90
+- problem4.f90
+- problem5.f90
+- problem6_1.f90
+- problem6_2.f90
+- sho_simpson.f90
 - ............(continue)
 
 # Requirements
